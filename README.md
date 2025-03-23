@@ -3,24 +3,11 @@
 Gasless TS Lib
 Installation
 To install the library:
-
-sh
-
-Collapse
-
-Wrap
-
-Copy
 npm install @mfayaz/gasless
 Usage
 Importing the Library
 ts
 
-Collapse
-
-Wrap
-
-Copy
 import { Gasless } from "@mfayaz/gasless";
 Initialization
 To initialize the Gasless library, you need to provide parameters based on the mode you are using: "pool" or "sponsor".
